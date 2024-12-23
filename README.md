@@ -57,7 +57,3 @@ Contributions to this project are welcome. Please fork the repository, make your
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Make sure to replace placeholders like `https://github.com/your-github-username/document-management-system.git` with actual URLs and details specific to your project. This README layout helps users understand the project's purpose, structure, and how to get started with it.
